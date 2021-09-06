@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+}
+
+span{
+    
+        width: 732px;
+        margin-right: 30px;
+        height: 100px;
+        font-size: xxx-large;
+}
+
+#order_1{
+width: 732px;
+margin-bottom: 30px;
+height: 100px;
+font-size: xx-large;
+}
+
+#order_2{
+    width: 732px;
+    height: 100px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+    }
+
+img{
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+
+button{
+    
+    width: 732px;
+    height: 100px;
+    font-size: 90px;
+
+}
+
+#sure_button{
+    
+    width: 732px;
+    height: 100px;
+    font-size: 90px;
+    display:none;
+}
+#food{
+    display:none;
+}
+#warning{
+    display:none; 
+}
